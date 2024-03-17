@@ -7,7 +7,7 @@ import createEmotionCache from '../src/createEmotionCache';
 export default class MyDocument extends Document {
   render() {
     return (
-      <Html lang="en">
+      <Html lang="pl">
         <Head>
           <meta name="theme-color" content={theme.palette.primary.main} />
         </Head>
