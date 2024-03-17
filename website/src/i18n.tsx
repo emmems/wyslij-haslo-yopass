@@ -9,7 +9,7 @@ i18n
   .use(LanguageDetector)
   .init({
     backend: {
-      loadPath: '/localhost/pl.json',//process.env.PUBLIC_URL + '/locales/{{lng}}.json',
+      loadPath: process.env.PUBLIC_URL + '/localhost/pl.json',
     },
 
     fallbackLng: process.env.REACT_APP_FALLBACK_LANGUAGE || 'en',
