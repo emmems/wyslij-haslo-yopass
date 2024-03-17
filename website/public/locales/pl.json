@@ -36,17 +36,17 @@
     "subtitleExpired": "Żadna tajemnica nie trwa wiecznie. Wszystkie przechowywane sekrety wygasną i automatycznie ulegną samozniszczeniu. Żywotność waha się od jednej godziny do jednego tygodnia."
   },
   "result": {
-    "title": "Sekret zapisany w bazie danych",
-    "subtitleDownloadOnce": "Pamiętaj, że sekrety można pobrać tylko raz, jeśli nie ustawiono inaczej. Więc nie otwieraj linku samodzielnie.",
-    "subtitleChannel": "Ostrożnie! Klucz deszyfrujący powinien zostać wysłany osobnym kanałem komunikacyjnym.",
+    "title": "Hasło zapisane w bazie danych",
+    "subtitleDownloadOnce": "Pamiętaj, że hasło można pobrać tylko raz, jeśli nie ustawiono inaczej. Więc nie otwieraj linku samodzielnie.",
+    "subtitleChannel": "Najlepiej gdyby Szyfr był wysłany osobnym kanałem komunikacyjnym.",
     "rowLabelOneClick": "Link jednorazowy",
-    "rowLabelShortLink": "Link skrócony",
-    "rowLabelDecryptionKey": "Klucz deszyfrowujący"
+    "rowLabelShortLink": "Link bez szyfru",
+    "rowLabelDecryptionKey": "Szyfr"
   },
   "secret": {
     "titleFile": "Plik pobrany",
     "titleMessage": "Odszyfrowana wiadomość",
-    "subtitleMessage": "To Hasło może nie być ponownie widoczny, pamiętaj aby go zapisać teraz!",
+    "subtitleMessage": "To Hasło może nie być ponownie widoczne, pamiętaj aby je zapisać teraz!",
     "buttonCopy": "Kopiuj"
   },
   "delete": {
@@ -61,7 +61,7 @@
   "attribution": {
     "createdBy": "Stworzone przez",
     "translatedBy": "Przetłumaczone przez",
-    "translatorName": "Mateusz Durajewski i Piotra Michalika :-)"
+    "translatorName": "Mateusza Durajewskiego i Piotra Michalika"
   },
   "expiration": {
     "legend": "Zaszyfrowana wiadomość zostanie automatycznie usunięta po",
